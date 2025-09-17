@@ -8,3 +8,6 @@ git clone 원격리포지토리주소.
 git log --oneline
 git remote -v
 git remote remove origin
+
+8th
+
